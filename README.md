@@ -160,18 +160,12 @@ int main(int argc, char *argv[]) {
 }
 
 ```
-
-
 ## OUTPUT
 
 ![filecopy](./img/01.png)
 
 ![filelock](./img/02.png)
 
-
-
-
 # RESULT:
-
 
 The programs are executed successfully.
